@@ -22,10 +22,12 @@
 
     .name {
       margin-bottom: 15px;
+      align-items: flex-start;
     }
 
     .price {
       width: 10%;
+      margin-right: 15px;
     }
   }
 }
