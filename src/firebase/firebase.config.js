@@ -3,7 +3,13 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config ={
-//     add Your fire configuration  object here
+    apiKey: "AIzaSyD8ahTaqcVjoLoaRs5oveMhMHJYT8OZFF8",
+    authDomain: "e-commerce-49ea1.firebaseapp.com",
+    databaseURL: "https://e-commerce-49ea1.firebaseio.com",
+    projectId: "e-commerce-49ea1",
+    storageBucket: "",
+    messagingSenderId: "634326414835",
+    appId: "1:634326414835:web:321840ff1684458f"
 }
 
 firebase.initializeApp(config);
