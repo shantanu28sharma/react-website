@@ -14,5 +14,4 @@ const userReducer = (state = INITIAL_STATE, action) => {
     }
 }
 
-console.log('in');
 export default userReducer;
